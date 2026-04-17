@@ -18,3 +18,4 @@ This is a RESTful API for a product catalog management system built with Spring 
 5. Run the application using Maven:
    ```bash
    mvn spring-boot:run
+6. The API will be available at http://localhost:8080/api/v1/products
